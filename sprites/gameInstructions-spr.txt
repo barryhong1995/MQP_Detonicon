@@ -1,0 +1,79 @@
+frames 2
+width 98
+height 36
+color yellow
+      OBJECTIVE: Be the last one standing! BEWARE OF THE CLOSING WALLS!                           
+                                                                                                  
+      CONTROLS:                                                                                   
+          Control a player with arrow keys (or WASD).                                             
+          Place a bomb at your position with space bar.                                           
+                                                                                                  
+      MECHANICS:                                                                                  
+          Placed bombs can be kicked by moving player into them.                                  
+          Placed bombs explode after a set time, in a plus shaped pattern of width 1.             
+          Increasing bomb explosion length increases size of each arm of plus pattern.            
+          Green walls can be broken by an explosion.                                              
+                                                                                                  
+      HUD:                                                                                        
+          Each display of HUD represents a player. Dead players have their display crossed out.   
+          Each display contains:                                                                  
+              * sprite of player                                                                  
+              * current vigor where '>' means one HP                                              
+              * current bombs where 'O' means one bomb                                            
+                                  & 'RELOADING' means player is reloading                         
+              * current buffs where 'O:' means max bombs                                          
+                                  & '#:' means explosion length                                   
+                                  & 'SPD:' means movespeed multiplier                             
+                                                                                                  
+      POWERUPS:                                                                                   
+          '{O+}' -> Increases player max bombs, and fully reloads current bombs                   
+          '{>+}' -> Increases player HP by 1, if player not already at max HP                     
+          '{#+}' -> Increases bomb explosion length by 1                                          
+          '{sp}' -> Increases player movespeed multiplier speed by 1, capped at 3                 
+                                                                                                  
+      SPRITES:                                                                                    
+          'O', 'Q', 'P', 'M', '6' -> Player sprites                                               
+          '>' -> Represents one HP of followed player                                             
+          'X', 'B' -> Wall, green (B) break by bomb explosions BUT yellow (X) are invincible      
+          'O~*' -> Bomb                                                                           
+                                                                                                  
+            Return to start screen with 'R' | Play Detonicon with 'P' | Quit with 'ESC'           
+end
+      OBJECTIVE: Be the last one standing! BEWARE OF THE CLOSING WALLS!                           
+                                                                                                  
+      CONTROLS:                                                                                   
+          Control a player with arrow keys (or WASD).                                             
+          Place a bomb at your position with space bar.                                           
+                                                                                                  
+      MECHANICS:                                                                                  
+          Placed bombs can be kicked by moving player into them.                                  
+          Placed bombs explode after a set time, in a plus shaped pattern of width 1.             
+          Increasing bomb explosion length increases size of each arm of plus pattern.            
+          Green walls can be broken by an explosion.                                              
+                                                                                                  
+      HUD:                                                                                        
+          Each display of HUD represents a player. Dead players have their display crossed out.   
+          Each display contains:                                                                  
+              * sprite of player                                                                  
+              * current vigor where '>' means one HP                                              
+              * current bombs where 'O' means one bomb                                            
+                                  & 'RELOADING' means player is reloading                         
+              * current buffs where 'O:' means max bombs                                          
+                                  & '#:' means explosion length                                   
+                                  & 'SPD:' means movespeed multiplier                             
+                                                                                                  
+      POWERUPS:                                                                                   
+          '{O+}' -> Increases player max bombs, and fully reloads current bombs                   
+          '{>+}' -> Increases player HP by 1, if player not already at max HP                     
+          '{#+}' -> Increases bomb explosion length by 1                                          
+          '{sp}' -> Increases player movespeed multiplier speed by 1, capped at 3                 
+                                                                                                  
+      SPRITES:                                                                                    
+          'O', 'Q', 'P', 'M', '6' -> Player sprites                                               
+          '>' -> Represents one HP of followed player                                             
+          'X', 'B' -> Wall, green (B) break by bomb explosions BUT yellow (X) are invincible      
+          'O~*' -> Bomb                                                                           
+                                                                                                  
+                                                                                                  
+end
+eof

@@ -1,0 +1,11 @@
+frames 3
+width 2
+height 1
+color red
+O*
+end
+O+
+end
+O 
+end
+eof

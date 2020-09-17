@@ -1,0 +1,20 @@
+Match ID: 1556321423
+Lag (MS): 0
+Is Using Lag Compensation: true
+Client Socket ID: 2
+Class: Player
+Brave Value: -1
+Smart Value: -1
+Map ID: 7
+# of Clients: 3
+Game Length (MS): 74167
+Time Survived (MS): 43533
+# of Times Hit by Explosion: 1
+# of Times Bumped into Wall: 14
+# of Powerups Picked Up: 5
+# of Bombs Placed: 17
+# of Spaces Moved: 615
+# of Move Cmds Sent: 416
+# of Times Rebounded: 0
+# of Spaces Rebounded: 0
+Is Victor: false

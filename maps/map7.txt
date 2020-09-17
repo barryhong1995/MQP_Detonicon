@@ -1,0 +1,49 @@
+#
+# Comments begin with '#' and are ignored when reading in the map
+# 'x' stands for the automatically spawned border of unbreakable walls
+# 'CC' stands for the center of each border
+# 'U' stands for unbreakable walls
+# 'S' stand for spawn point
+# 'B' stands for breakable walls
+# ' ' stands for blank space
+#
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                  B                          B                                  x
+x                                  B                          B                                  x
+x           U U                    B                          B                    U U           x
+x        UUBB BBUU                                                              UUBB BBUU        x
+x            S                       U                      U                       S            x
+x        UUBB BBUU                 B U                      U B                 UUBB BBUU        x
+x           U U                    B U                      U B                    U U           x
+x                                  B U     UU       UU      U B                                  x
+x                 BBBBBBBBBBBBBBBBBB U      UUU   UUU       U BBBBBBBBBBBBBBBBBB                 x
+x                 B                  U        UU UU         U                  B                 x
+x                 B UUUUBBBU   UUUUU U         U U          U UUUUU   UBBBUUUU B                 x
+x                 B     B            U         U U          U            B     B                 x
+x                 B     B            U         U U          U            B     B                 x
+x                 B   U B                                                B U   B                 x
+x                 B   U B                                                B U   B                 x
+xBBBBBBB         BB   U B     U                                    U     B U   BB         BBBBBBBx
+x                     U       B      BBBB   UU B B UU    BBBB      B       U                     x
+x              UUUUBBBB       U             BBBB BBBB              U       BBBBUUUU              x
+C                                               S                                                C
+C                                           BBBB BBBB                                            C
+x              UUUUBBBB       U             UU B B UU              U       BBBBUUUU              x
+x                     U       B      BBBB                BBBB      B       U                     x
+xBBBBBBB         BB   U B     U                                    U     B U   BB         BBBBBBBx
+x                 B   U B                      U U                       B U   B                 x
+x                 B   U B                      U U                       B U   B                 x
+x                 B     B            U         U U          U            B     B                 x
+x                 B     B            U        UU UU         U            B     B                 x
+x                 B UUUUBBBU   UUUUU U      UUU   UUU       U UUUUU   UBBBUUUU B                 x
+x                 B                  U     UU       UU      U                  B                 x
+x                 BBBBBBBBBBBBBBBBBB U                      U BBBBBBBBBBBBBBBBBB                 x
+x                                  B U                      U B                                  x
+x           U U                    B U                      U B                    U U           x
+x        UUBB BBUU                 B U                      U B                 UUBB BBUU        x
+x            S                       U                      U                       S            x
+x        UUBB BBUU                                                              UUBB BBUU        x
+x           U U                    B                          B                    U U           x
+x                                  B                          B                                  x
+x                                  B                          B                                  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

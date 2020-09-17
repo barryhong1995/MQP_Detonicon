@@ -1,0 +1,7 @@
+frames 1
+width 4
+height 1
+color white
+{O+}
+end
+eof

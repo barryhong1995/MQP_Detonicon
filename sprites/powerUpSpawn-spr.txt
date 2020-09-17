@@ -1,0 +1,29 @@
+frames 4
+width 10
+height 5
+color white
+* * * * * 
+*        *
+*        *
+*        *
+ * * * * *
+end
+          
+  * * * * 
+ *      * 
+ * * * *  
+          
+end
+          
+          
+    *     
+   * *    
+          
+end
+          
+          
+    *     
+          
+          
+end
+eof
